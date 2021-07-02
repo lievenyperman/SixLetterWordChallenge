@@ -4,7 +4,7 @@ To run the console application from a command line:
 
 - Open a terminal in path: WordChallenge/WordChallenge.SixLetters/bin/Debug/net5.0
 - enter: "WordChallenge.SixLetters"
-- this will open a console application running the WordChallenge.SixLetters.exe
+- this will open a console application running the WordChallenge.SixLetters.exe and displaying all word combinations as described below.
 
 
 # Kenze challenge:
